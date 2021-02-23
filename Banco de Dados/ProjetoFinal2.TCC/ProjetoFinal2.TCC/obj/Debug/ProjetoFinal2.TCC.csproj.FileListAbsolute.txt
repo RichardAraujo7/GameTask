@@ -1,0 +1,166 @@
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojAssemblyReference.cache
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.cache
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmPrincipal.resources
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+c:\users\henri\source\repos\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarJogador.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.cache
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmMenu.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarTimes.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarTimes.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmBuscarAdm.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmDeletarAdm.resources
+C:\Users\henri\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmNovoaAdm.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmBuscarAdm.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmDeletarAdm.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmNovoaAdm.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmMenu.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarJogador.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarTimes.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarTimes.resources
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.cache
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\henri\Desktop\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmBloquearPost.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmBuscarAdm.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmDeletarAdm.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmNovoaAdm.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmMenu.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarJogador.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmbloquearpost.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarTimes.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarTimes.resources
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.Cache
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb
+G:\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojResolveAssemblyReference.cache
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmBuscarAdm.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmDeletarAdm.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmNovoaAdm.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmMenu.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarJogador.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmbloquearpost.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarTimes.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarTimes.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.cache
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmDeletarPost.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Jogador.frmBloquearJogador.resources
+C:\Users\henri\Desktop\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Times.frmBloquearTime.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojResolveAssemblyReference.cache
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmBuscarAdm.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmDeletarAdm.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmNovoaAdm.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmMenu.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Jogador.frmBloquearJogador.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarJogador.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmbloquearpost.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmDeletarPost.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Times.frmBloquearTime.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarTimes.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarTimes.resources
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.Cache
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+H:\Copia da Copia\Tcc-copia\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojAssemblyReference.cache
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmBuscarAdm.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmDeletarAdm.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmNovoaAdm.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmMenu.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Jogador.frmBloquearJogador.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarJogador.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmbloquearpost.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmDeletarPost.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Times.frmBloquearTime.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarTimes.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarTimes.resources
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.cache
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\dougl\Desktop\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.FrmEsqueci.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe.config
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\bin\Debug\ProjetoFinal2.TCC.pdb
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.Properties.Resources.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmBuscarAdm.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmDeletarAdm.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Adm.frmNovoaAdm.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.FrmEsqueci.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmLogin.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmMenu.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Jogador.frmBloquearJogador.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarJogador.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarJogador.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmbloquearpost.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarPosts.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Post.frmDeletarPost.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.Times.frmBloquearTime.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmBuscarTimes.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.View.frmDeletarTimes.resources
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.GenerateResource.cache
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.exe
+C:\Users\henri\Desktop\Projetos C#(TCC)\ProjetoFinal2.TCC\ProjetoFinal2.TCC\obj\Debug\ProjetoFinal2.TCC.pdb

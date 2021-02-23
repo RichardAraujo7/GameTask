@@ -1,0 +1,44 @@
+body{
+background: black;
+width: 100%;
+margin: 0 auto;
+}
+.tudopr{
+	height:100%;
+	
+	background: yellow;
+}
+.topopr{
+	background: lightblue;
+	width:100%;
+	height:8%;
+	left:0%;
+	
+	position: static;
+	
+}
+.infopr{
+	background: red;
+	top: 8%;
+	left:0%;
+	height: 42%;
+	width: 13%;
+	position:absolute;
+}
+.oppr{
+	background: green;
+	height: 50%;
+	width: 13%;
+	position:absolute;
+	left:0%;
+	bottom: 0%;
+}
+.conteudopr{
+	background: purple;
+	right: 0%;
+	bottom:0%;
+	width: 87%;
+	height: 92%;
+	
+	position:absolute;
+}
